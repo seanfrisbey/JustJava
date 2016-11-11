@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="java_quantity">Quantity</string>
+    <string name="total_part_1">Total (@</string>
+    <string name="total_part_2">per cup)</string>
+    <string name="clear_order_button">Clear Order</string>
+    <string name="decrement_button">-</string>
+    <string name="increment_button">+</string>
+</resources>
